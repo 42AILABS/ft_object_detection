@@ -14,6 +14,6 @@ pip install -r requirements.txt
 # 구현 목록 리스트 (model zoo)
 | 모델 (Model) | 논문 (Paper) | 타입 (Type) | 진행상황 (Progress) |
 |:-------|:---|:---|:---:|
-|`YOLO v1`| `You Only Look Once: Unified, Real-Time Object Detection (2015)` | `One Stage` | **ING** |
-|| |  |  |
+|`YOLO v1`| `You Only Look Once: Unified, Real-Time Object Detection (2015)` | `One Stage` | **O** |
+|`SSD`| `SSD: Single Shot MultiBox Detector` | `One Stage` | **O** |
 || |  |  |
